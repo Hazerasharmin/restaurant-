@@ -1,0 +1,512 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*header start*/
+.menu ul li a {
+    font-size: 23px;
+}
+
+
+
+/*banner start*/
+
+	.dpm {
+    width: 290px;
+    padding: 0px 0px;
+}
+
+.dpm[data-bs-popper] {
+    top: 85px;
+    left: -40px; 
+}
+
+.banner {
+    padding: 28px;
+}
+
+.b_h1 {
+   
+   font-size: 50px;
+    
+}
+
+.b_p {
+    padding: 70px 0 50px;
+    font-size: 25px;
+    
+}
+
+.btn_c {
+    
+    font-size: 15px;
+    padding: 10px 50px;
+}
+
+/*service start*/
+.s_h1 {
+    font-size: 45px; 
+}
+
+.s_p {
+    font-size: 22px;
+   
+}
+
+.btn_s {
+   
+   	font-size: 18px;
+    padding: 16px 58px;
+}
+
+/*about start*/
+.a_text {
+    padding: 22px;
+    padding-top: 60px;
+}
+
+.a_h1 {
+    font-size: 50px;
+  
+}
+
+.a_p {
+    
+    font-size: 25px;
+    
+}
+
+/*offer*/
+
+.offer_text {
+
+    margin-top: -204px;
+}
+.o_img {
+    margin-top: 20px;
+    padding-left: 50px;
+}
+
+ .o_h1 {
+    font-size: 46px;
+    margin-bottom: -8px;
+}
+
+.o_h2 {
+    font-size: 17px;
+    margin-bottom: -7px;
+}
+
+.o_p {
+    font-size: 25px;
+   
+}
+
+/*blog*/
+
+.bl_text {
+    padding-top: 53px;
+}
+
+.bl_h1 {
+    font-size: 44px;
+   
+}
+
+.bl_p {
+   
+    font-size: 23px;
+    
+}
+
+/*choose*/
+ 
+ .c_p {
+    font-size: 30px;
+}
+.c_h2 {
+    font-size: 40px;
+    padding-top: 15px;
+}
+
+
+
+
+
+/*contact*/
+.contact {
+    
+    padding: 110px 0 150px;
+}
+
+.cont_h1 {
+    font-size: 45px;
+    
+}
+.cont_p {
+    font-size: 23px;
+    padding: 50px 0 80px;
+    
+}
+
+.btn_f {
+    
+    font-size: 20px;
+    padding: 18px 84px;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+
+
+
+
+/*footer*/
+
+footer {
+    padding: 120px 0 180px;
+}
+.f_1 {
+    padding-bottom: 40px;
+    padding-left: 10px;
+}
+
+.f_2 {
+    line-height: 30px;
+    padding-top: 30px;
+    padding-left: 10px;
+}
+} 
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+/*banner start*/
+.b_h1 {
+    font-size: 55px;
+}
+
+.b_p {
+    font-size: 22px;
+}
+
+
+.btn_c {
+    
+    font-size: 16px;
+    padding: 14px 60px;
+}
+
+/*service start*/
+
+.s_h1 {
+    font-size: 52px;  
+}
+
+.s_p {
+    font-size: 24px;
+    padding: 50px 0 65px;
+}
+
+.btn_s {
+    
+    font-size: 23px;
+    padding: 22px 75px;
+}
+
+/*about start*/
+
+
+.a_h1 {
+    font-size: 65px; 
+}
+
+.a_p {
+ 
+    font-size: 28px;
+    
+}
+
+/*offer*/
+
+.offer_text {
+    
+    margin-top: -250px;
+}
+.o_h1{
+    font-size: 62px;
+    margin-bottom: -14px;
+}
+
+.o_h2 {
+    font-size: 35px;
+    margin-bottom: -17px;
+}
+
+.o_p {
+    font-size: 46px;
+}
+
+/*blog*/
+
+.bl_h1 {
+    font-size: 65px;
+   
+}
+
+.bl_p {
+   
+    font-size: 27px;
+    
+}
+
+/*choose*/
+
+.c_h2 {
+    font-size: 42px;
+    
+}
+.c_p {
+    font-size: 37px;
+   
+}
+
+
+/*contact*/
+.contact{
+
+	padding: 110px 0 170px;
+}
+
+.cont_h1 {
+    font-size: 52px;  
+}
+
+.cont_p {
+    font-size: 26px;
+    
+}
+
+
+.btn_f {
+    font-size: 20px;
+    padding: 16px 190px;
+    margin-left: 10px;
+    margin-top: 16px;
+}
+
+
+
+/*footer*/
+footer {
+    
+    padding: 140px 0 190px;
+}
+
+.f_1 {
+    padding-bottom: 40px;
+    padding-left: 16px;
+}
+
+.f_2 {
+    line-height: 30px;
+    padding-left: 16px;
+}
+	
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+/*banner start*/
+
+.b_h1 {
+    font-size: 104px;
+   
+}
+.b_p {
+    font-size: 28px; 
+}	
+.btn_c {
+
+    font-size: 23px;
+}	
+	
+
+/*about start*/
+.a_img {
+    margin: 40px;
+}
+
+.a_h1 {
+    font-size: 68px;   
+    margin-top: -60px;
+}
+
+.btn_s {
+    
+    font-size: 23px;
+    padding: 20px 75px;
+}
+
+/*offer*/
+.offer_text {
+    
+    margin-top: -390px;
+}
+
+.o_h1 {
+    font-size: 117px;
+      
+}
+
+.o_h2 {
+    font-size: 43px;
+    margin-bottom: -27px;
+}
+
+.o_p {
+    font-size: 65px;
+}
+
+/*blog*/
+.blog {
+    padding: 100px 0 110px;
+   
+}
+
+
+.bl_h1 {
+    font-size: 51px;
+    margin-top: -83px;
+}
+
+.bl_p {
+    
+    font-size: 24px;
+}
+
+/*choose*/
+.c_p {
+    font-size: 38px;
+    
+}
+
+
+/*contact*/
+
+.cont_h1 {
+    font-size: 62px;
+}
+
+.cont_p {
+    font-size: 28px;
+}
+
+.btn_f {
+    
+    font-size: 23px;
+    padding: 18px 38px;
+    
+}
+
+
+} 
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+/*header start*/
+.menu ul li a {
+    padding: 0 50px !important;
+}
+
+/*about start*/
+.a_text {
+    padding-left: 85px;
+    padding-top: 60px;
+}
+
+.a_h1 {
+    font-size: 65px;
+}
+
+.a_p {
+ 
+  font-size: 26px;
+  
+}
+
+.btn_s {
+    
+    font-size: 23px;
+    padding: 20px 58px;
+}
+
+/*offer*/
+
+.offer_text {
+    
+    margin-top: -570px;
+}
+
+.o_h1 {
+    font-size: 155px;
+    
+}
+
+.o_h2 {
+    font-size: 57px;
+}
+
+.o_p {
+    font-size: 90px;
+    
+}
+
+/*blog*/
+.bl_h1 {
+    font-size: 69px;
+    margin-top: -50px;
+}
+
+/*contact*/
+.c_form {
+    padding: 0px 45px;
+}
+
+
+.cont_h1 {
+    font-size: 63px;
+  
+}
+.btn_f {  
+    padding: 18px 35px;
+    
+}
+
+}
+
+/*Extra Large devices (desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+/*about start*/
+.a_h1 {
+    font-size: 65px;
+}
+
+.a_p {
+ 
+    font-size: 28px;
+   
+}
+
+.btn_s {
+    font-size: 25px;
+    padding: 20px 75px;
+}
+
+
+} 
+
+/* Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+
+}
